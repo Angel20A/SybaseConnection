@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\SybaseConnection.exe.config
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\SybaseConnection.exe
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\SybaseConnection.pdb
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\Advantage.Data.Provider.dll
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseConnection.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseCo.629A0486.Up2Date
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseConnection.exe
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseConnection.pdb
