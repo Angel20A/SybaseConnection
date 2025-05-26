@@ -12,8 +12,8 @@ namespace SybaseConnection
         static void Main(string[] args)
         {
             //objeto de conexión
-            AdsConnection conn = new AdsConnection("data source=C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data" +
-                "ServerType=local; TableType=ADT");
+            AdsConnection conn = new AdsConnection("data source=C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data;" +
+                " ServerType=local; TableType=ADT; CharType=ANSI;"); // 
 
             AdsCommand cmd;
             AdsDataReader reader;
