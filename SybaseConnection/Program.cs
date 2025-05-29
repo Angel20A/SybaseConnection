@@ -12,12 +12,16 @@ namespace SybaseConnection
         static void Main(string[] args)
         {
             //C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data
-            //"C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data_src"
+            //C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data_src
             //C:\\Program Files (x86)\\Advantage 12.0\\Help\\ADS_DATA\\
             //objeto de conexión
-            string connectionString = @"C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data";
-            ADP.AdsConnection conn = new ADP.AdsConnection("data source=C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data;" +
-                "ServerType=local; TableType=ADT;"); // CharType=ANSI
+
+            string connectionString = "data source=C:\\Users\\HP\\Documents\\Angel\\SDG\\Sybase\\Data_src;" +
+                "ServerType=local; TableType=ADT; CharType=ANSI; LockMode=proprietary;" +
+                "SecurityMode=ignorerights; "; // CharType=ANSI CommType=default
+            /*ADP.AdsConnection conn = new ADP.AdsConnection(connectionString); */
+            ADP.AdsConnection conn = new ADP.AdsConnection();
+            conn.ConnectionString = connectionString;
             ADP.AdsCommand cmd;
             ADP.AdsDataReader reader;
             int iField;
@@ -26,7 +30,7 @@ namespace SybaseConnection
             {
                 conn.Open();
                 cmd = conn.CreateCommand();
-                cmd.CommandText = "select * from Area;"; //select account from Area        select * from Area          select * from employee
+                cmd.CommandText = "select * from Area"; //select account from Area        select * from Area          select * from employee
                 reader = cmd.ExecuteReader();
 
                 while (reader.Read())
