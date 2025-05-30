@@ -7,3 +7,5 @@ C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Deb
 C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseCo.629A0486.Up2Date
 C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseConnection.exe
 C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseConnection.pdb
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\System.Data.Odbc.dll
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\System.Data.Odbc.xml
