@@ -9,3 +9,6 @@ C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Deb
 C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\obj\Debug\SybaseConnection.pdb
 C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\System.Data.Odbc.dll
 C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\System.Data.Odbc.xml
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\System.Drawing.Common.dll
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\System.Drawing.Common.pdb
+C:\Users\HP\Documents\Angel\SDG\Sybase\SybaseConnection\SybaseConnection\bin\Debug\System.Drawing.Common.xml
